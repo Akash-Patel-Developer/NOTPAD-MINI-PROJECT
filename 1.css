@@ -90,3 +90,6 @@ textarea{
     font-weight: bold;
     font-size: 28px;
 }
+.save{
+    display: flex;
+}
